@@ -42,4 +42,3 @@ The project is built around a two-stage data pipeline:
 * `/powerbi_dashboard/` — Contains the complete, downloadable `.pbix` file including all DAX measures and layout models.
 
 ---
-💡 *Note: To explore the backend metrics or modify the layouts yourself, you can download the full Power BI file located in the dashboard folder above.*
