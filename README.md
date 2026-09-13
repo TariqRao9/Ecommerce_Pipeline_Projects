@@ -37,4 +37,3 @@ Every case study in this repository aims to achieve three core milestones:
 
  ## Author
 ### Muhammad Tariq
---
