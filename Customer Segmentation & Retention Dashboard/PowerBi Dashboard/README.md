@@ -33,4 +33,3 @@ The dataset relies on a star schema relational map connected directly to the pro
 * `Olist_ecommerce.pbix` — The complete Power BI Desktop file containing the data model, relationships, calculated measures, and user interface layouts.
 
 ---
-💡 *Note: To interact with the live dashboard filters, explore the relationship schemas, or inspect the backend DAX formulas, download the `.pbix` file above and open it using Microsoft Power BI Desktop (free).*
