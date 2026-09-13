@@ -34,7 +34,7 @@ Every case study in this repository aims to achieve three core milestones:
 3. **Actionable Visual Reporting:** Designing clear, clutter-free layouts that make critical data instantly understandable.
 
 ---
-💡 *Feel free to explore individual project directories to review the source code and download the dashboard files.*
 
  ## Author
 ### Muhammad Tariq
+--
