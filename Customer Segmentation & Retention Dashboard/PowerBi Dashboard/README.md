@@ -29,7 +29,8 @@ The dataset relies on a star schema relational map connected directly to the pro
 
 Due to GitHub's file size limitations for web browser uploads, the master dashboard workbook is hosted safely via cloud storage:
 
-* 📥 **Download Link:** [Click Here to Download the Olist_ecommerce.pbix File from Google Drive]([https://google.com](https://drive.google.com/file/d/1O8NTwxPxaeyUTfHxtwoCar6dBAUNMv4a/view?usp=sharing))
+* 📥 **Download Link:** [Click Here to Download the Olist_ecommerce.pbix File from Google Drive]
+* https://drive.google.com/file/d/1O8NTwxPxaeyUTfHxtwoCar6dBAUNMv4a/view?usp=sharing
 
 ---
 💡 *Note: Google Drive cannot generate a web preview for Power BI files, so it will show a "No preview available" screen. Simply click the blue **Download** button on that page to save the file and open it locally via Power BI Desktop (free).*
