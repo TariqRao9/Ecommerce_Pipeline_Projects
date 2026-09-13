@@ -8,10 +8,8 @@ By combining database processing with visual analytics, this project turns raw, 
 ---
 
 ## 📸 Dashboard Preview
-*(Replace the placeholder image below with a screenshot of your actual Power BI dashboard layout)*
-![Dashboard Screenshot Placeholder](http![Uploading image.png…](<img width="978" height="548" alt="image" src="https://github.com/user-attachments/assets/df9fc583-4df7-4b67-adf8-b952cb3bd024" />
-)
-s://placeholder.com)
+<img width="978" height="548" alt="Power BI Dashboard" src="https://github.com" />
+
 
 ---
 
