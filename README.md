@@ -36,5 +36,5 @@ Every case study in this repository aims to achieve three core milestones:
 ---
 💡 *Feel free to explore individual project directories to review the source code and download the dashboard files.*
 
-##Author
-###Muhammad Tariq
+ ## Author
+### Muhammad Tariq
