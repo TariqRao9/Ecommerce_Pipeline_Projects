@@ -8,7 +8,8 @@ By combining database processing with visual analytics, this project turns raw, 
 ---
 
 ## 📸 Dashboard Preview
-<img width="978" height="548" alt="Power BI Dashboard" src="https://github.com" />
+<img width="978" height="548" alt="image" src="https://github.com/user-attachments/assets/f7f37db3-2b66-418b-a614-9e2b3617bce2" />
+
 
 
 ---
