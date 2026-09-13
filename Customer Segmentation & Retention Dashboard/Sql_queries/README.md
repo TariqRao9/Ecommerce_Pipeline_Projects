@@ -19,13 +19,3 @@ The scripts are written for **PostgreSQL** and follow a structured data transfor
 * **Cohort Churn Identification:** Aggregating monthly user activity to flag inactive accounts and isolate the exact historical revenue tied to users who stopped buying.
 
 ---
-
-## 📁 Key Queries Stored Here
-
-* `01_data_cleaning.sql` — Ingestion scripts, handling missing values, and database schema setup.
-* `02_rfm_segmentation.sql` — Query logic calculating the behavioral metrics and assigning customer segments.
-* `03_revenue_leakage_cohorts.sql` — Monthly grouping queries tracking the November churn spike and total revenue risk.
-
----
-Power BI data relationship model.*
-
