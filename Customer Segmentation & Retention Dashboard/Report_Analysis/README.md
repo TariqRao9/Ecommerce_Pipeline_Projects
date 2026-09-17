@@ -198,7 +198,5 @@ Interactive Dashboard
         ↓
 Business Insights
 ---
-
-## Author
-
-**MUHAMMAD TARIQ**
+## **Author**
+### **Muhammad Tariq**
