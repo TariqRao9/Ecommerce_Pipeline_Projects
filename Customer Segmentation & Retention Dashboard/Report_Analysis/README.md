@@ -201,4 +201,4 @@ Business Insights
 
 ## Author
 
-## MUHAMMAD TARIQ
+**MUHAMMAD TARIQ**
