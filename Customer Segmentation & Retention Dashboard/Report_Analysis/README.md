@@ -50,12 +50,15 @@ This project answers several business questions:
 Customers were evaluated using three RFM dimensions:
 
 ### Recency
+
 Measures how recently a customer made a purchase.
 
 ### Frequency
+
 Measures how many orders a customer has placed.
 
 ### Monetary
+
 Measures the total amount spent by a customer.
 
 RFM scores were then used to classify customers into different behavioral segments.
@@ -129,6 +132,7 @@ Monthly churn analysis tracks the **last purchase month of customers currently c
 ## 🛠️ Tools & Technologies
 
 ### PostgreSQL
+
 Used for:
 
 - Data preparation
@@ -141,6 +145,7 @@ Used for:
 - Churn analysis
 
 ### Power BI
+
 Used for:
 
 - Interactive dashboard development
@@ -160,6 +165,7 @@ The Power BI dashboard provides an interactive view of customer segmentation and
 ### Dashboard Sections
 
 **Customer KPIs**
+
 - Total Customers
 - Total Items Sold
 - Total Revenue
@@ -168,6 +174,7 @@ The Power BI dashboard provides an interactive view of customer segmentation and
 - Churn Rate
 
 **Customer Analysis**
+
 - Customers by Segment
 - Revenue by Customer Segment
 - Repeat Customers by Segment
@@ -197,6 +204,10 @@ Power BI
 Interactive Dashboard
         ↓
 Business Insights
+```
+
 ---
-## **Author**
-### **Muhammad Tariq**
+
+## 👤 Author
+
+**Muhammad Tariq**
