@@ -195,8 +195,8 @@ Repeat Customer & Churn Analysis
 Power BI
         ↓
 Interactive Dashboard
+        ↓
+Business Insights
 
 ## Author
 ### MUHAMMAD TARIQ
-        ↓
-Business Insights
