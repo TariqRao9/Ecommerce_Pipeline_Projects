@@ -197,6 +197,8 @@ Power BI
 Interactive Dashboard
         ↓
 Business Insights
+---
 
 ## Author
-### MUHAMMAD TARIQ
+
+## MUHAMMAD TARIQ
